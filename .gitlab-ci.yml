@@ -1,2 +1,2 @@
 job1:
-  script: "ls -la"
+  script: "cat README.md"
