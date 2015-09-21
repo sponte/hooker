@@ -1,0 +1,4 @@
+jobs:
+  - script: "ls -la"
+    runner: "bash"
+    name: "Something to run"
